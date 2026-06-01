@@ -16,7 +16,7 @@ I also enjoy building systems and making them scale, whether it is developing se
 
 Outside work, I play and organize CTFs, where we dive into exploitation, vulnerability research, and weird security rabbit holes.
 
-Things I enjoy
+### Things I enjoy
 
 - Breaking down how systems behave internally
 - Finding and understanding vulnerabilities
@@ -24,7 +24,7 @@ Things I enjoy
 - Building tools from things I learn
 - Designing scalable systems and infrastructure
 
-Interests
+### Interests
 
 - OT / IoT Security
 - Cloud & Identity Security
@@ -32,7 +32,7 @@ Interests
 - Offensive Security Engineering
 - Exploit Development
 
-Connect
+### Connect
 
 Blog: https://abdulhaq.me/blog
 LinkedIn: https://linkedin.com/in/skabdulhaq
