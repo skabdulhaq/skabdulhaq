@@ -1,27 +1,38 @@
-### Hello ! I am Abdul Haq 
+Hey, I'm Abdul Haq 👋
 
-## I am developer and designer !!
-- 🎓 Freshman from SastraUniversity
-- 🌱 Learning = Journey and Journey Continues📈
-- 👩‍💻 Strongly believe that tech (not only IT) can progress of IN and
+I like understanding how systems work and how they break.
 
-### Connect with me:
-[<img align="left" alt="codeSTACKr | LinkedIn" width="45px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-<br />
+I'm a pentester working across:
 
-</details>
+- OT / IoT Device Security
+- Product Security
+- Web & Application Security
+- Cloud Security (Azure / Entra ID)
+- Security Tool Development
 
-[linkedin]: https://www.linkedin.com/in/abdul-haq-web-developer/
+My work involves assessing connected devices and systems, while my curiosity often takes me into different areas of security from cloud environments to custom tooling.
 
-## Skills I know !!
+I also enjoy building systems and making them scale, whether it is developing security tools, automating workflows, or designing infrastructure for CTFs and other projects.
 
-![](https://img.icons8.com/color/64/000000/python.png)![](https://img.icons8.com/color/64/000000/javascript.png)![](https://img.icons8.com/color/64/000000/html-5.png)![](https://img.icons8.com/color/64/000000/css3.png)![](https://img.icons8.com/color/64/000000/bootstrap.png)
+Outside work, I play and organize CTFs, where we dive into exploitation, vulnerability research, and weird security rabbit holes.
 
-## Skills I Am learning !!
-![](https://img.icons8.com/color/64/000000/c-programming.png)![](https://img.icons8.com/color/64/000000/c-plus-plus-logo.png)![](https://img.icons8.com/color/64/000000/flutter.png)
+Things I enjoy
 
+- Breaking down how systems behave internally
+- Finding and understanding vulnerabilities
+- Automating repetitive security workflows
+- Building tools from things I learn
+- Designing scalable systems and infrastructure
 
-## Skills Want learning !!
-![](https://img.icons8.com/color/64/000000/postgreesql.png)  ![](https://img.icons8.com/color/64/000000/django.png) ![](https://img.icons8.com/color/94/000000/nodejs.png)![](https://img.icons8.com/color/64/000000/mongodb.png)  ![](https://img.icons8.com/color/64/000000/kotlin.png) ![](https://img.icons8.com/color/64/000000/ruby-programming-language.png)![](https://img.icons8.com/plasticine/64/000000/react.png)
+Interests
 
+- OT / IoT Security
+- Cloud & Identity Security
+- Vulnerability Research
+- Offensive Security Engineering
+- Exploit Development
 
+Connect
+
+Blog: https://abdulhaq.me/blog
+LinkedIn: https://linkedin.com/in/skabdulhaq
