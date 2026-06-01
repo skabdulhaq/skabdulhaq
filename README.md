@@ -35,4 +35,5 @@ Outside work, I play and organize CTFs, where we dive into exploitation, vulnera
 ### Connect
 
 Blog: https://abdulhaq.me/blog
+
 LinkedIn: https://linkedin.com/in/skabdulhaq
